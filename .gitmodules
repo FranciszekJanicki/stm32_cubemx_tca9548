@@ -1,0 +1,3 @@
+[submodule "components/tca9548"]
+	path = components/tca9548
+	url = git@github.com:FranciszekJanicki/tca9548.git
