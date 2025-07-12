@@ -1,1 +1,2 @@
 git@github.com:FranciszekJanicki/tca9548.git tca9548
+git@github.com:FranciszekJanicki/as5600.git as5600

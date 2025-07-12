@@ -1,3 +1,6 @@
 [submodule "components/tca9548"]
 	path = components/tca9548
 	url = git@github.com:FranciszekJanicki/tca9548.git
+[submodule "components/as5600"]
+	path = components/as5600
+	url = git@github.com:FranciszekJanicki/as5600.git
